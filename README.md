@@ -61,4 +61,3 @@
 
 `git config --global user.email "email@mail.com"`
 
-`git config --global user.name "User Nahhfme"`
