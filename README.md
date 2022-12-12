@@ -47,3 +47,18 @@
 **git branch [имя ветки]**
 
     Создаёт новую ветку.
+
+
+**git merge [имя ветки]**
+
+    Вносит изменения указанной ветки в текущую ветку.
+
+**git branch -d [имя ветки]**
+
+    Удаляет выбранную ветку.
+
+**Добавить имя и email пользователя с помощью команд:**
+
+`git config --global user.email "email@mail.com"`
+
+`git config --global user.name "User Name"`
